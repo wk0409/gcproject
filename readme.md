@@ -8,11 +8,11 @@ From the gathered data we filtered the signal variables having mean or std anywh
 
 ###The run_analysis script can be used to tidy the experimental data set using the following steps:-
 
--Download the file using the url ""
+- Download the file using the url "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones "
 
--unzip the file in the Working Directory.
+- unzip the file in the Working Directory.
 
--Run the run_analysis.R Script.
+- Run the run_analysis.R Script.
 
 Once the run_analysis.R script is run, the tidy data is available in the file naming "Data.txt". 
 
